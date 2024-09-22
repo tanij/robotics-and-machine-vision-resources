@@ -175,6 +175,8 @@ field.  There are also articles and useful links.
   * [How a Kalman filter Works, In Pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
   
   * [Gabriel Terejanu's Extended Kalman Filter Tutorial](https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf)
+ 
+  * [Duckietown Learning Experiences](https://github.com/duckietown/duckietown-lx) 
 
 
 
